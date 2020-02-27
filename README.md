@@ -8,14 +8,15 @@ This case selected the document and display it in the Word document, To make a c
 
 I code this function to display different subjects of templates in a list, also I code the view of the Add-in using the tools of CSS and HTML.
 
-#Part of the CSS Code I use for making the display of the templates with a button and making the background 
-/*  ALL*/
+# Part of the CSS Code I use for making the display of the templates with a button and making the background 
+
+# body of the page
 body {
     margin: 0; /* Margin of the bar */
     font-family: Segoe UI, Segoe UI, serif; /* The style of the letter */
     text-align: left; /* Text align */
 }
-/* IconButton and text */
+# IconButton and text 
 .btn {
     background-color: #f3f2f1; /* Blue background */
     border: none; /* Remove borders */
@@ -28,7 +29,7 @@ body {
     display: block; /* Block All */
     margin-top: 1px; /* Margin All the top */
 }
-    /* IconButton All and text */
+    # IconButton All and text 
     .btn :after {
         font-family: Segoe UI, Segoe UI, serif; /* Comment with the letter */
         content: 'ALL'; /* Text All of the bar */
@@ -42,11 +43,11 @@ body {
         left: 20px; /* The text to the left */
         float: left; /* Float to left */
     }
-    /* Darker background on mouse-over */
+    # Darker background on mouse-over
     .btn:hover {
         background-color: #f3f2f1; /* The color of the back ground when the button is display */
     }
-/* The Item of All display */
+# The Item of All display 
 #myDIV {
     width: 100%; /* The width of the Templates documents*/
     font-family: Segoe UI, Segoe UI, serif; /* Letter */
