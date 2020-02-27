@@ -11,52 +11,8 @@ I code this function to display different subjects of templates in a list, also 
 # Part of the CSS Code I use for making the display of the templates with a button and making the background 
 
 # body of the page
-body {
-    margin: 0; /* Margin of the bar */
-    font-family: Segoe UI, Segoe UI, serif; /* The style of the letter */
-    text-align: left; /* Text align */
-}
-# IconButton and text 
-.btn {
-    background-color: #f3f2f1;
-    border: none;
-    color: #484644;
-    padding: 15px 23px;
-    cursor: pointer;
-    text-align:
-    left: 60px;
-    width: 100%;
-    display: block;
-    margin-top: 1px;
-}
-    # IconButton All and text 
-    .btn :after {
-        font-family: Segoe UI, Segoe UI, serif; /* Comment with the letter */
-        content: 'ALL'; /* Text All of the bar */
-        color: #000000;
-        align-content: center; /* For center the text */
-        visibility: visible; /* Visibility with of the text */
-        position: absolute; /* Absolute in the bar */
-        cursor: pointer; /* Cursor that pointer to the text */
-        background-color: #f3f2f1; /* Color of the text */
-        top: 2px 2px 2px 1px; /* Top of the text*/
-        left: 20px; /* The text to the left */
-        float: left; /* Float to left */
-    }
-    # Darker background on mouse-over
-    .btn:hover {
-        background-color: #f3f2f1; /* The color of the back ground when the button is display */
-    }
-# The Item of All display 
-#myDIV {
-    width: 100%; /* The width of the Templates documents*/
-    font-family: Segoe UI, Segoe UI, serif; /* Letter */
-    padding: 12px 0px; /* The padding for the document and the bar */
-    text-align: left; /* The alination of the document Templates*/
-    margin-top: 1.5px; /* The margin it has */
-    background-color: white; /* The background color */
-    display: block; /* Display block */
-}
+I choose a color that was similiar to the document of Word so it will not be contraste and for the person using it will be easy to use.
+
 
 
 
