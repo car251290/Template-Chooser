@@ -14,7 +14,22 @@ I code this function to display different subjects of templates in a list, also 
 I choose a color that was similiar to the document of Word so it will not be contraste and for the person using it will be easy to use.
 
 # html 
-
+the body of the HTML has <script> where I indicate the src of the file of the js that will containe the html.
+    <!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+    <title></title>
+    <script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.9.1.min.js" type="text/javascript"></script>
+    <script src="https://appsforoffice.microsoft.com/lib/1/hosted/office.js" type="text/javascript"></script>
+    
+    <script src="FunctionFile.js" type="text/javascript"></script>
+</head>
+<body>
+  
+</body>
+</html>
 
 # Javascript the next fuction is an example of the display template:
 
