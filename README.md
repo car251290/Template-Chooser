@@ -13,6 +13,11 @@ I code this function to display different subjects of templates in a list, also 
 # body of the page
 I choose a color that was similiar to the document of Word so it will not be contraste and for the person using it will be easy to use.
 
+# html 
+
+
+# Javascript 
+
 
 
 
