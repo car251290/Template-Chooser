@@ -16,8 +16,23 @@ I choose a color that was similiar to the document of Word so it will not be con
 # html 
 
 
-# Javascript 
+# Javascript the next fuction is an example of the display template:
 
+    function displaytemplates() {
+        var templates = ['Templatechooser.docx', 'Template2.docx'];
+        templates = new docxTemplater();
+       templates.loadZip(zip);
+        //forlook for the image
+        for (var i = 0; i < templates.length; i++) {
+            var File = templates[i];
+            //add-in container for display the imagine with the url and the class html addin 
+            $(".templates").append(
+                '<div class= "tn">' +
+                '<img src=" http://localhost/46TemplateChooserWeb/Images/' + File + '" alt = "templates" > ' +
+                '</div>'
+            );
+        }
+    }
 
 
 
