@@ -18,16 +18,16 @@ body {
 }
 # IconButton and text 
 .btn {
-    background-color: #f3f2f1; /* Blue background */
-    border: none; /* Remove borders */
-    color: #484644; /* black text */
-    padding: 15px 23px; /* Some padding */
-    cursor: pointer; /* Mouse pointer on hover */
-    text-align: right; /* The text alination */
-    left: 60px; /* Left of All the bar */
-    width: 100%; /* Width of All the bar*/
-    display: block; /* Block All */
-    margin-top: 1px; /* Margin All the top */
+    background-color: #f3f2f1;
+    border: none;
+    color: #484644;
+    padding: 15px 23px;
+    cursor: pointer;
+    text-align:
+    left: 60px;
+    width: 100%;
+    display: block;
+    margin-top: 1px;
 }
     # IconButton All and text 
     .btn :after {
