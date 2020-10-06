@@ -8,6 +8,7 @@ This case selected the document and display it in the Word document, To make a c
 I code this function to display different subjects of templates in a list, Also I code the view of the Add-in using the tools of CSS and HTML for the looking of the tempales.
 
 # Part of the CSS Code I use for making the display of the templates with a button and making the background 
+## Working in the Back end to connected to the Sharepoint is coming the code and the Template update it.
 
 # body of the page
 I choose a color that was similiar to the document of Word so it will not be contraste and for the person using it will be easy to use.
