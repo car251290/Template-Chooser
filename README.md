@@ -13,6 +13,14 @@ I code this function to display different subjects of templates in a list, Also 
 # body of the page
 I choose a color that was similiar to the document of Word so it will not be contraste and for the person using it will be easy to use.
 
+# Sideload Office Add-ins for testing from a network share
+I will get this steps to deploy my Webpackes to Azure
+
+Share a folder
+In File Explorer on the Windows computer where you want to host your add-in, go to the parent folder, or drive letter, of the folder you want to use as your shared folder catalog.
+Open the context menu for the folder you want to use as your shared folder catalog (right-click the folder) and choose Properties.
+Within the Properties dialog window, open the Sharing tab and then choose the Share button.
+
 # html 
 the body of the HTML has <script> where I indicate the src of the file of the js that will containe the html.
     <!DOCTYPE html>
