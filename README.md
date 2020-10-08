@@ -1,5 +1,5 @@
 # Template-Chooser
-Templates for choose Word document display it in the work document.
+Templates for choose is to chooser word templates is storeted in SharePoint, the document display to the user choose.
 
 # The second experience with Add-in
 This Add-In and I made using Visual Studio and in the same language Javascript 
