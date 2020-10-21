@@ -1,5 +1,6 @@
 # Template-Chooser
 Templates for choose is to chooser word templates is storeted in SharePoint, the document display to the user choose.
+In many Office 365 projects, SharePoint migrations or document structure planning, the question often araises, where to store templates so that every user has access to them and, more importantly, always uses the latest version.
 
 # The second experience with Add-in
 This Add-In and I made using Visual Studio and in the same language Javascript 
