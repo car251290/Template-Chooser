@@ -53,7 +53,7 @@ the body of the HTML has <script> where I indicate the src of the file of the js
             //add-in container for display the imagine with the url and the class html addin 
             $(".templates").append(
                 '<div class= "tn">' +
-                '<img src=" http://localhost/46TemplateChooserWeb/Templates' + File + '" alt = "templates" > ' +
+                '<a" http://localhost/46TemplateChooserWeb/Templates' + File + '" alt = "templates" /> ' +
                 '</div>'
             );
         }
