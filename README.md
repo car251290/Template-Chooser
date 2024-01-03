@@ -44,12 +44,12 @@ the body of the HTML has <script> where I indicate the src of the file of the js
 # Javascript the next fuction is an example of the display template:
 
     function displaytemplates() {
-        var templates = ['Templatechooser.docx', 'Template2.docx'];
+        let templates = ['Templatechooser.docx', 'Template2.docx'];
         templates = new docxTemplater();
-       templates.loadZip(zip);
+       templates.loadZip('zip');
         //forlook for the image
-        for (var i = 0; i < templates.length; i++) {
-            var File = templates[i];
+        for (let i = 0; i < templates.length; i++) {
+            let File = templates[i];
             //add-in container for display the imagine with the url and the class html addin 
             $(".templates").append(
                 '<div class= "tn">' +
